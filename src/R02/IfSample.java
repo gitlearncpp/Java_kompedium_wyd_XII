@@ -1,5 +1,7 @@
+package R02;
+
 public class IfSample {
-    // przykład użycia instrukcji IF
+    // Przykład użycia instrukcji IF
     public static void main(String[] args) {
         int x, y;
 
